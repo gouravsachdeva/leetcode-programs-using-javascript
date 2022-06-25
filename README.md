@@ -5,3 +5,4 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 ## Array
 - Problem 217 - Contains Duplicate
 - Problem 219 - Contains Duplicate II
+- Problem 242 - Valid Anagram
