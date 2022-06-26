@@ -6,3 +6,7 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 217 - Contains Duplicate
 - Problem 219 - Contains Duplicate II
 - Problem 242 - Valid Anagram
+- Problem 1 - Two Sum (Return Indexes)
+
+## Two Pointers
+- Problem 167 - Two Sum II - Input Array Is Sorted
