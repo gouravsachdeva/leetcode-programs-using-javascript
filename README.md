@@ -4,6 +4,7 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 
 ## Array & Hashing
 - Problem 1 - Two Sum (Return Indexes)
+- Problem 49 - Group Anagrams
 - Problem 217 - Contains Duplicate
 - Problem 219 - Contains Duplicate II
 - Problem 242 - Valid Anagram
