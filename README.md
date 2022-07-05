@@ -10,4 +10,5 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 242 - Valid Anagram
 
 ## Two Pointers
+- Problem 125 - Valid Palindrome
 - Problem 167 - Two Sum II - Input Array Is Sorted
