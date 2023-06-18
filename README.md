@@ -25,3 +25,4 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 ## Binary Search
 - Problem 34 - Find First and Last Position of Element in Sorted Array
 - Problem 744 - Find Smallest Letter Greater Than Target
+- Problem 852 - Peak Index in a Mountain Array
