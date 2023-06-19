@@ -23,6 +23,7 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 122 - Best Time to Buy and Sell Stock ii
 
 ## Binary Search
+- Problem 33 - Search in Rotated Sorted Array
 - Problem 34 - Find First and Last Position of Element in Sorted Array
 - Problem 744 - Find Smallest Letter Greater Than Target
 - Problem 852 - Peak Index in a Mountain Array
