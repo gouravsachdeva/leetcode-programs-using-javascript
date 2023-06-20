@@ -17,6 +17,7 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 15 - 3Sum
 - Problem 125 - Valid Palindrome
 - Problem 167 - Two Sum II - Input Array Is Sorted
+- Problem 240 - Search a 2D Matrix II
 
 ## Sliding Window
 - Problem 121 - Best Time to Buy and Sell Stock
@@ -26,5 +27,6 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 33 - Search in Rotated Sorted Array
 - Problem 34 - Find First and Last Position of Element in Sorted Array
 - Problem 153 - Find Minimum in Rotated Sorted Array
+- Problem 410 - Split Array Largest Sum
 - Problem 744 - Find Smallest Letter Greater Than Target
 - Problem 852 - Peak Index in a Mountain Array
