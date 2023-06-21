@@ -26,6 +26,7 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 ## Binary Search
 - Problem 33 - Search in Rotated Sorted Array
 - Problem 34 - Find First and Last Position of Element in Sorted Array
+- Problem 69 - Sqrt(x)
 - Problem 153 - Find Minimum in Rotated Sorted Array
 - Problem 410 - Split Array Largest Sum
 - Problem 744 - Find Smallest Letter Greater Than Target
