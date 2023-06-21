@@ -31,3 +31,6 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 410 - Split Array Largest Sum
 - Problem 744 - Find Smallest Letter Greater Than Target
 - Problem 852 - Peak Index in a Mountain Array
+
+## Sorting Algorithms
+- Bubble Sort
