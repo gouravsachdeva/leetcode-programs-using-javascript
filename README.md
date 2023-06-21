@@ -34,3 +34,4 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 
 ## Sorting Algorithms
 - Bubble Sort
+- Selection Sort
