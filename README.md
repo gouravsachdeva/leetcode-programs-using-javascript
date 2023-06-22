@@ -41,4 +41,5 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 ## Cyclic Sort
 - Problem 268 - Missing Number
 - Problem 287 - Find the Duplicate Number
+- Problem 442 - Find All Duplicates in an Array
 - Problem 448 - Find All Numbers Disappeared in an Array
