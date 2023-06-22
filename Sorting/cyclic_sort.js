@@ -1,5 +1,7 @@
 // Cyclic Sort
 /* If array numbers are from 1 to N use Cyclic Sort the time complaxity will be O(N).
+If range => [0,N] - Every element will be at index = value
+If range => [1,N] - Every element will be at index = value -1
 5 4 3 2 1
 1 4 3 2 5
 1 2 3 4 5 */

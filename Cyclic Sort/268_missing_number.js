@@ -6,9 +6,8 @@ var missingNumber = function (nums) {
     while (start < n) {
         if (nums[start] < n && nums[start] != start) {
             let temp = nums[start];
-            let newTemp = nums[start];
             nums[start] = nums[temp];
-            nums[temp] = newTemp;
+            nums[temp] = temp;
         } else {
             start++;
         }
