@@ -39,6 +39,7 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Selection Sort
 
 ## Cyclic Sort
+- Problem 41 - First Missing Positive
 - Problem 268 - Missing Number
 - Problem 287 - Find the Duplicate Number
 - Problem 442 - Find All Duplicates in an Array
