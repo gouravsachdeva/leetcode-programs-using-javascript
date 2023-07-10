@@ -36,6 +36,8 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Bubble Sort
 - Cyclic Sort
 - Insertion Sort
+- Merge Sort
+- Quick Sort
 - Selection Sort
 
 ## Cyclic Sort
