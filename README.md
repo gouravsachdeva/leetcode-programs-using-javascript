@@ -32,6 +32,9 @@ This repository consists of all type (Easy, Medium & Hard) of leetcode program s
 - Problem 744 - Find Smallest Letter Greater Than Target
 - Problem 852 - Peak Index in a Mountain Array
 
+## Stack
+- Problem 20 - Valid Parentheses
+
 ## Sorting Algorithms
 - Bubble Sort
 - Cyclic Sort
